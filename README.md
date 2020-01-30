@@ -1,4 +1,4 @@
-# blockchain-community-e-book
+# Blockchain Commmunity e-Book
 
 ## Warum?
 https://chainist.de/30-moeglichkeiten-blockchain-zu-erklaeren-und-zu-verstehen/
